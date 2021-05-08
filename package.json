@@ -44,7 +44,7 @@
         "express-validator": "^6.1.1",
         "pg": "^7.12.1",
         "reflect-metadata": "^0.1.13",
-        "typeorm": "^0.2.18",
+        "typeorm": "^0.2.25",
         "uuid": "^3.3.2"
     }
 }
